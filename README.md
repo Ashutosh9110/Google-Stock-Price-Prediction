@@ -1,1 +1,1 @@
-# Google-Stock-Prediction
+# Google Stock Price Prediction
